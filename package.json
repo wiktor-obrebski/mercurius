@@ -65,7 +65,7 @@
     "graphql": "^15.5.1",
     "graphql-jit": "^0.7.0",
     "mqemitter": "^4.4.1",
-    "p-map": "^4.0.0",
+    "p-map": "^5.4.0",
     "promise.allsettled": "^1.0.4",
     "readable-stream": "^3.6.0",
     "secure-json-parse": "^2.4.0",
